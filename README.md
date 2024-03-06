@@ -1,4 +1,4 @@
-# $${\color{orange}Basic discord webhook with discord.py}$$ 
+# $${\color{orange}Basic \space discord \space webhook \space with \space discord.py}$$ 
 
 
 • Put the webhook and website url.
